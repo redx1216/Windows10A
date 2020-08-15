@@ -1,6 +1,7 @@
 # Windows 10A
 
 ![](desktop.png)
+![](editor.png)
 
 My Windows 10 customizations & programs I use. (A for Atakan)
 
@@ -24,7 +25,7 @@ My Windows 10 customizations & programs I use. (A for Atakan)
     - WSL (ArchWSL)
       - genie
       - yay
-      - zsh
+      - zsh (Oh My Zsh!)
     - WinGet
   - Desktop Apps
     - Design & Photo Editing
@@ -55,6 +56,13 @@ My Windows 10 customizations & programs I use. (A for Atakan)
       - PowerToys
     - Development
       - Visual Studio Code
+        - One Dark Pro Monokai Darker
+        - Remote - WSL
+        - EditorConfig
+        - Docker
+        - ESLint
+        - Markdown All-in-One (by Yu Zhang)
+        - Mithril Emmet
       - Windows Terminal
     - Multimedia
       - VLC Media Player
@@ -66,3 +74,7 @@ My Windows 10 customizations & programs I use. (A for Atakan)
     - Office
       - Office Online (Desktop PWA)
       - Xodo
+
+## Where is my config files?
+
+[Here.](https://github.com/AtakanErmis/dotfiles)

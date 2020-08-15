@@ -9,7 +9,7 @@ My Windows 10 customizations & programs I use. (A for Atakan)
 ## Contents
 
 - Customizations
-  - [Debloat]((https://github.com/Sycnex/Windows10Debloater))
+  - [Debloat](https://github.com/Sycnex/Windows10Debloater)
   - Wallpaper: [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ([Mojave XP](https://windd.info/themes/Mojave_XP.html))
   - Taskbar Customizatons
     - Small Taskbar Icons

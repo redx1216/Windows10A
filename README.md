@@ -14,6 +14,7 @@ My Windows 10 customizations & programs I use. (A for Atakan)
   - Taskbar Customizatons
     - Small Taskbar Icons
     - Taskbar on top
+    - [CapsLockIndicator](https://github.com/jonaskohl/CapsLockIndicator)
     - [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) (for centering icons)
     - [T-Clock Redux](https://github.com/White-Tiger/T-Clock/tags)
       - Time format: `ddd mmm dd   HH:nn:ss`
